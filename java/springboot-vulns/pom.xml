@@ -17,7 +17,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.0.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<properties>
@@ -219,7 +219,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-hateoas</artifactId>
-			<version>1.2.2.RELEASE</version>
+			<version>2.2.0.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mybatis.spring.boot</groupId>
